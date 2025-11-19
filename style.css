@@ -1,0 +1,39 @@
+body 
+{
+    background-color: #f2f2f2;
+    font-family: Arial, sans-serif;
+    margin: 40px;
+}
+
+h1 
+{
+    color: #2a5dba;
+    font-size: 36px;
+    text-align: center;
+}
+
+h2 
+{
+    color: #444;
+    font-family: 'Trebuchet MS', sans-serif;
+    margin-top: 30px;
+}
+
+p 
+{
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+ul, ol {
+    background-color: white;
+    padding: 15px;
+    border-radius: 8px;
+}
+
+img 
+{
+    border: 3px solid #555;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
